@@ -1,4 +1,4 @@
-## Downloads
+# Downloads
 
 ### Windows!
 > [Stable Realese]()
